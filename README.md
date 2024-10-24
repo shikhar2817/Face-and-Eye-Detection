@@ -18,3 +18,4 @@ If the program is not executing :
   * the problem must be the location of hpp files in the includes.
   * verify the path and try again it will defently work.
   
+![Sample](https://github.com/shikhar2817/Face-and-Eye-Detection/blob/master/Screenshot%20from%202019-12-26%2014-17-47.png)
